@@ -1,25 +1,269 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="浙江卫视", 浙江卫视
+#EXTINF:-1 tvg-chno="1" group-title="辽宁频道", 辽宁卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://192.151.150.154:88/applive/zjws.m3u8?u=155.117.84.38&t=1789801149&k=52304943bd70f6c810a1822e28906227&a=jsbv1hz9
+http://204.12.230.74:88/applive/lnws.m3u8?u=155.117.84.36&t=1789815384&k=c11a89a95db7c74296d6e54594912b44&a=jsbv1hz9
 
-#EXTINF:-1 tvg-name="广东卫视", 广东卫视
+#EXTINF:-1 tvg-chno="2" group-title="辽宁频道", 辽宁都市频道
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://142.54.179.26:88/applive/gdws.m3u8?u=155.117.84.38&t=1789801150&k=2a348c9337faee480c08e166fe6d1bf5&a=jsbv1hz9
+http://63.141.230.178:88/applive/lnds.m3u8?u=155.117.84.36&t=1789815385&k=bac631ef03542ffe9262300b8eb01669&a=jsbv1hz9
 
-#EXTINF:-1 tvg-name="广州卫视", 广州卫视
+#EXTINF:-1 tvg-chno="3" group-title="辽宁频道", 辽宁影视剧频道
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://204.12.230.74:88/applive/gzws.m3u8?u=155.117.84.38&t=1789801151&k=0fbf7146eeba2ed02e2016593b6f1982&a=jsbv1hz9
+http://63.141.230.178:88/applive/lnys.m3u8?u=155.117.84.36&t=1789815386&k=d9e3eee458a618aac2a260e8c5e25095&a=jsbv1hz9
 
-#EXTINF:-1 tvg-name="CCTV-1", CCTV-1
+#EXTINF:-1 tvg-chno="4" group-title="辽宁频道", 辽宁生活频道
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://204.12.242.162:88/applive/cctv1.m3u8?u=155.117.84.38&t=1789801152&k=9ef5ece991eadb3547f4e425f822e265&a=jsbv1hz9
+http://63.141.230.178:88/applive/lnsh.m3u8?u=155.117.84.36&t=1789815387&k=d7e4637739ab3aee32ef7c0e30566dcd&a=jsbv1hz9
 
-#EXTINF:-1 tvg-name="湖南卫视", 湖南卫视
+#EXTINF:-1 tvg-chno="5" group-title="辽宁频道", 辽宁北方频道
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://192.151.150.154:88/applive/hnws.m3u8?u=155.117.84.38&t=1789801153&k=01e2a192a7efbd10db5c15cbff1661ba&a=jsbv1hz9
+http://63.141.230.178:88/applive/lnbf.m3u8?u=155.117.84.36&t=1789815388&k=c3b3d1a010141696b657f672beee6612&a=jsbv1hz9
 
-#EXTINF:-1 tvg-name="辽宁卫视", 辽宁卫视
+#EXTINF:-1 tvg-chno="6" group-title="卫视频道", 安徽卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://204.12.230.74:88/applive/lnws.m3u8?u=155.117.84.38&t=1789801154&k=1b884aefbbdbae509fab3bdf9ebb7dd4&a=jsbv1hz9
+http://47.99.202.156:8003/apptv/安徽卫视.m3u8
+
+#EXTINF:-1 tvg-chno="7" group-title="卫视频道", 北京卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/北京卫视.m3u8
+
+#EXTINF:-1 tvg-chno="8" group-title="卫视频道", 重庆卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/重庆卫视.m3u8
+
+#EXTINF:-1 tvg-chno="9" group-title="卫视频道", 东南卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/东南卫视.m3u8
+
+#EXTINF:-1 tvg-chno="10" group-title="卫视频道", 厦门卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/厦门卫视.m3u8
+
+#EXTINF:-1 tvg-chno="11" group-title="卫视频道", 甘肃卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/甘肃卫视.m3u8
+
+#EXTINF:-1 tvg-chno="12" group-title="卫视频道", 广东卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://208.110.86.66:82/live/gdws.m3u8?jsbt=1789815397&jsbk=79e368a0c9ad060e9d5d14c81a7bbd14&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="13" group-title="卫视频道", 深圳卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/深圳卫视.m3u8
+
+#EXTINF:-1 tvg-chno="14" group-title="卫视频道", 广西卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/广西卫视.m3u8
+
+#EXTINF:-1 tvg-chno="15" group-title="卫视频道", 贵州卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/贵州卫视.m3u8
+
+#EXTINF:-1 tvg-chno="16" group-title="卫视频道", 海南卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/海南卫视.m3u8
+
+#EXTINF:-1 tvg-chno="17" group-title="卫视频道", 河北卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/河北卫视.m3u8
+
+#EXTINF:-1 tvg-chno="18" group-title="卫视频道", 黑龙江卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/黑龙江卫视.m3u8
+
+#EXTINF:-1 tvg-chno="19" group-title="卫视频道", 河南卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/河南卫视.m3u8
+
+#EXTINF:-1 tvg-chno="20" group-title="卫视频道", 湖北卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/湖北卫视.m3u8
+
+#EXTINF:-1 tvg-chno="21" group-title="卫视频道", 湖南卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://69.197.146.146:82/live/hnws.m3u8?jsbt=1789815407&jsbk=52079742c42cc5a4a557d7f1ce042fbc&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="22" group-title="卫视频道", 江苏卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://192.151.150.154:88/applive/jsws.m3u8?u=155.117.84.36&t=1789815408&k=d1b47f4365967e72a6cfb466a1eb875f&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="23" group-title="卫视频道", 江西卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/江西卫视.m3u8
+
+#EXTINF:-1 tvg-chno="24" group-title="卫视频道", 吉林卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/吉林卫视.m3u8
+
+#EXTINF:-1 tvg-chno="25" group-title="卫视频道", 内蒙卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/内蒙卫视.m3u8
+
+#EXTINF:-1 tvg-chno="26" group-title="卫视频道", 宁夏卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/宁夏卫视.m3u8
+
+#EXTINF:-1 tvg-chno="27" group-title="卫视频道", 山西卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/山西卫视.m3u8
+
+#EXTINF:-1 tvg-chno="28" group-title="卫视频道", 山东卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/山东卫视.m3u8
+
+#EXTINF:-1 tvg-chno="29" group-title="卫视频道", 东方卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://192.151.150.154:88/applive/dfws.m3u8?u=155.117.84.36&t=1789815416&k=64129e62e42ea83ea33c0d015bcaee31&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="30" group-title="卫视频道", 陕西卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/陕西卫视.m3u8
+
+#EXTINF:-1 tvg-chno="31" group-title="卫视频道", 四川卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/四川卫视.m3u8
+
+#EXTINF:-1 tvg-chno="32" group-title="卫视频道", 天津卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/天津卫视.m3u8
+
+#EXTINF:-1 tvg-chno="33" group-title="卫视频道", 新疆卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/新疆卫视.m3u8
+
+#EXTINF:-1 tvg-chno="34" group-title="卫视频道", 云南卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/云南卫视.m3u8
+
+#EXTINF:-1 tvg-chno="35" group-title="卫视频道", 浙江卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://192.151.150.154:88/applive/zjws.m3u8?u=155.117.84.36&t=1789815423&k=8aa68aa68d14d428116dbd07a109aa60&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="36" group-title="卫视频道", 青海卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/青海卫视.m3u8
+
+#EXTINF:-1 tvg-chno="37" group-title="卫视频道", 西藏卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/西藏卫视.m3u8
+
+#EXTINF:-1 tvg-chno="38" group-title="卫视频道", 延边卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/延边卫视.m3u8
+
+#EXTINF:-1 tvg-chno="39" group-title="卫视频道", 兵团卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/兵团卫视.m3u8
+
+#EXTINF:-1 tvg-chno="40" group-title="卫视频道", 海峡卫视
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/海峡卫视.m3u8
+
+#EXTINF:-1 tvg-chno="41" group-title="少儿频道", 哈哈炫动
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/哈哈炫动.m3u8
+
+#EXTINF:-1 tvg-chno="42" group-title="少儿频道", 湖南金鹰卡通频道
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/湖南金鹰卡通频道.m3u8
+
+#EXTINF:-1 tvg-chno="43" group-title="少儿频道", 卡酷少儿
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/卡酷少儿.m3u8
+
+#EXTINF:-1 tvg-chno="44" group-title="少儿频道", CCTV-14 少儿
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.35.234:88/applive/cctv14.m3u8?u=155.117.84.36&t=1789815434&k=7e5e5f644c95e308d96e5d58519ef7d0&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="45" group-title="少儿频道", 辽宁青少频道
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/辽宁青少频道.m3u8
+
+#EXTINF:-1 tvg-chno="46" group-title="少儿频道", 天津少儿频道
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/天津少儿频道.m3u8
+
+#EXTINF:-1 tvg-chno="47" group-title="少儿频道", 江苏优漫卡通频道
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/江苏优漫卡通频道.m3u8
+
+#EXTINF:-1 tvg-chno="48" group-title="少儿频道", 江西少儿频道
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/江西少儿频道.m3u8
+
+#EXTINF:-1 tvg-chno="49" group-title="少儿频道", 海南少儿频道
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://47.99.202.156:8003/apptv/海南少儿频道.m3u8
+
+#EXTINF:-1 tvg-chno="50" group-title="中央频道", CCTV-1 综合
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv1md.m3u8?u=155.117.84.36&t=1789815441&k=c92811bfb4a5609951ec81866036c990&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="51" group-title="中央频道", CCTV-2 财经
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv2md.m3u8?u=155.117.84.36&t=1789815442&k=54b3efc4eacc7d2330635525fec3b764&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="52" group-title="中央频道", CCTV-3 综艺
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv3md.m3u8?u=155.117.84.36&t=1789815443&k=f182adc15b27a97f5055c1ad1ee83436&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="53" group-title="中央频道", CCTV-4 中文国际
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv4md.m3u8?u=155.117.84.36&t=1789815444&k=a5e42747b0827506a963efb8d311fd0d&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="54" group-title="中央频道", CCTV-5 体育
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://69.197.146.138:82/live/cctv5.m3u8?jsbt=1789815446&jsbk=8e606c6579ba4b88036b7d5863fec3b7&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="55" group-title="中央频道", CCTV-5+ 体育赛事
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://192.187.111.162:82/live/cctv5pmd.m3u8?jsbt=1789815447&jsbk=27ef56e6d8a1a61ab8674e955b1810be&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="56" group-title="中央频道", CCTV-6 电影
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.32.90:82/live/cctv6md.m3u8?jsbt=1789815448&jsbk=da5d21baa1f2cb71a80f70078b790e04&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="57" group-title="中央频道", CCTV-7 国防 军事
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv7md.m3u8?u=155.117.84.36&t=1789815449&k=1c035bc32e7fd94e2f9fb647e50edd06&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="58" group-title="中央频道", CCTV-8 电视剧
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv8md.m3u8?u=155.117.84.36&t=1789815450&k=34f5310f19c4254dff47f630dc6ad092&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="59" group-title="中央频道", CCTV-9 记录
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.35.234:88/applive/cctv9.m3u8?u=155.117.84.36&t=1789815451&k=e5a10ce9d4c53e02fe67a9a4a9119f94&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="60" group-title="中央频道", CCTV-10 科教
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv10md.m3u8?u=155.117.84.36&t=1789815452&k=fdf4350e3d48a7be48e8927d196b4606&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="61" group-title="中央频道", CCTV-11 戏曲
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://63.141.239.226:88/applive/cctv11md.m3u8?u=155.117.84.36&t=1789815454&k=539d7c1fee9fcbfe56206ff298c4a0e2&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="62" group-title="中央频道", CCTV-12 社会与法
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.35.234:88/applive/cctv12.m3u8?u=155.117.84.36&t=1789815455&k=6893e95724c701b8178e5a2cdfc62e71&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="63" group-title="中央频道", CCTV-13 新闻
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.35.234:88/applive/cctv13.m3u8?u=155.117.84.36&t=1789815456&k=b72ff84f21eeed694b874e5b1350b13f&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="64" group-title="中央频道", CCTV-14 少儿
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.35.234:88/applive/cctv14.m3u8?u=155.117.84.36&t=1789815457&k=47a7f61d67cffa754a64f23c472c5222&a=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="65" group-title="中央频道", CCTV-15 音乐
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://192.187.111.162:82/live/cctv15md.m3u8?jsbt=1789815458&jsbk=14d6e8d274fdb91e802645cfd9a0544e&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="66" group-title="中央频道", CCTV-16 奥林匹克
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://192.187.111.162:82/live/cctv16md.m3u8?jsbt=1789815459&jsbk=22364aeb48fbc55d95de252280ed4524&from=jsbv1hz9
+
+#EXTINF:-1 tvg-chno="67" group-title="中央频道", CCTV-17 农业 农村
+#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
+http://107.150.32.90:82/live/cctv17md.m3u8?jsbt=1789815461&jsbk=4963cc6538f1d89daef8c6e44db4c5a1&from=jsbv1hz9
