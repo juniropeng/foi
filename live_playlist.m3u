@@ -2,24 +2,24 @@
 
 #EXTINF:-1 tvg-name="浙江卫视", 浙江卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://192.151.150.154:88/applive/zjws.m3u8?u=124.94.29.132&t=1789774048&k=16da05f07010c377f4563e3dab40235a&a=jsbv1hz9
+http://192.151.150.154:88/applive/zjws.m3u8?u=155.117.84.39&t=1789785074&k=c28f4f8fe1a4f6367c41012b981a90f9&a=jsbv1hz9
 
 #EXTINF:-1 tvg-name="广东卫视", 广东卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://199.168.97.90:88/applive/gdws.m3u8?u=124.94.29.132&t=1789774048&k=42bbf539f8816c47a25926281796ab3d&a=jsbv1hz9
+http://199.168.97.90:88/applive/gdws.m3u8?u=155.117.84.39&t=1789785075&k=c6ecd9dd70f0ab31cffe0ee3997a9eba&a=jsbv1hz9
 
 #EXTINF:-1 tvg-name="广州卫视", 广州卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://204.12.230.74:88/applive/gzws.m3u8?u=124.94.29.132&t=1789774048&k=52b7c35f15a80a4bf06e54cddaa370aa&a=jsbv1hz9
+http://204.12.230.74:88/applive/gzws.m3u8?u=155.117.84.39&t=1789785076&k=cd147faf24a8f677fea6e7912b94cea9&a=jsbv1hz9
 
 #EXTINF:-1 tvg-name="CCTV-1", CCTV-1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://63.141.244.178:88/applive/cctv1.m3u8?u=124.94.29.132&t=1789774048&k=c115f4961d9c9016d57ee2ed49d43c7c&a=jsbv1hz9
+http://107.150.50.82:82/live/cctv1.m3u8?jsbt=1789785077&jsbk=457446b6fd0d96b531fc7c7af9360e32&from=jsbv1hz9
 
 #EXTINF:-1 tvg-name="湖南卫视", 湖南卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://63.141.250.98:82/live/hnwsmd.m3u8?jsbt=1789774048&jsbk=4c963180b3c210df028ffd3ee3f90173&from=jsbv1hz9
+http://142.54.168.234:88/applive/hnws.m3u8?u=155.117.84.39&t=1789785078&k=14c1b58257ce0cead03c942e8fe161ae&a=jsbv1hz9
 
 #EXTINF:-1 tvg-name="辽宁卫视", 辽宁卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
-http://204.12.230.74:88/applive/lnws.m3u8?u=124.94.29.132&t=1789774048&k=b4740b80ea06c575e35fc17cdee06deb&a=jsbv1hz9
+http://204.12.230.74:88/applive/lnws.m3u8?u=155.117.84.39&t=1789785079&k=f22de39789b0678b1e2ea919fd731b34&a=jsbv1hz9
