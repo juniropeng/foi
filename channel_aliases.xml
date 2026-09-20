@@ -1,0 +1,868 @@
+{
+  "categories": [
+    {
+      "name": "中央频道",
+      "channels": [
+        {
+          "tvid": "1",
+          "epgid": "cctv1",
+          "status": "1",
+          "note": "CCTV-1综合"
+        },
+        {
+          "tvid": "2",
+          "epgid": "cctv2",
+          "status": "1",
+          "note": "CCTV-2财经"
+        },
+        {
+          "tvid": "3",
+          "epgid": "cctv3",
+          "status": "1",
+          "note": "CCTV-3综艺"
+        },
+        {
+          "tvid": "4",
+          "epgid": "cctv4",
+          "status": "1",
+          "note": "CCTV-4中文国际"
+        },
+        {
+          "tvid": "5",
+          "epgid": "cctv5",
+          "status": "1",
+          "note": "CCTV-5体育"
+        },
+        {
+          "tvid": "6",
+          "epgid": "cctv5+",
+          "status": "1",
+          "note": "CCTV-5⁺体育赛事"
+        },
+        {
+          "tvid": "7",
+          "epgid": "cctv6",
+          "status": "1",
+          "note": "CCTV-6电影"
+        },
+        {
+          "tvid": "8",
+          "epgid": "cctv7",
+          "status": "1",
+          "note": "CCTV-7国防军事"
+        },
+        {
+          "tvid": "9",
+          "epgid": "cctv8",
+          "status": "1",
+          "note": "CCTV-8电视剧"
+        },
+        {
+          "tvid": "10",
+          "epgid": "cctv9",
+          "status": "1",
+          "note": "CCTV-9纪录"
+        },
+        {
+          "tvid": "11",
+          "epgid": "cctv10",
+          "status": "1",
+          "note": "CCTV-10科教"
+        },
+        {
+          "tvid": "12",
+          "epgid": "cctv11",
+          "status": "1",
+          "note": "CCTV-11戏曲"
+        },
+        {
+          "tvid": "13",
+          "epgid": "cctv12",
+          "status": "1",
+          "note": "CCTV-12社会与法"
+        },
+        {
+          "tvid": "14",
+          "epgid": "cctv13",
+          "status": "1",
+          "note": "CCTV-13新闻"
+        },
+        {
+          "tvid": "15",
+          "epgid": "cctv14",
+          "status": "1",
+          "note": "CCTV-14少儿"
+        },
+        {
+          "tvid": "16",
+          "epgid": "cctv15",
+          "status": "1",
+          "note": "CCTV-15音乐"
+        },
+        {
+          "tvid": "17",
+          "epgid": "cctv17",
+          "status": "1",
+          "note": "CCTV-17农村农业"
+        },
+        {
+          "tvid": "18",
+          "epgid": "cgtn",
+          "status": "1",
+          "note": "CGTN"
+        },
+        {
+          "tvid": "19",
+          "epgid": "cctv4k",
+          "status": "1",
+          "note": "CCTV4K"
+        },
+        {
+          "tvid": "90",
+          "epgid": "cctvyl",
+          "status": "1",
+          "note": "中数CCTV-娱乐"
+        },
+        {
+          "tvid": "91",
+          "epgid": "cctvxq",
+          "status": "1",
+          "note": "中数CCTV-戏曲"
+        },
+        {
+          "tvid": "92",
+          "epgid": "cctvdy",
+          "status": "1",
+          "note": "中数CCTV-电影"
+        },
+        {
+          "tvid": "180",
+          "epgid": "zgjtpd",
+          "status": "1",
+          "note": "中国交通频道"
+        }
+      ]
+    },
+    {
+      "name": "卫视频道",
+      "channels": [
+        {
+          "tvid": "20",
+          "epgid": "hnws",
+          "status": "1",
+          "note": "湖南卫视"
+        },
+        {
+          "tvid": "21",
+          "epgid": "zjws",
+          "status": "1",
+          "note": "浙江卫视"
+        },
+        {
+          "tvid": "22",
+          "epgid": "jsws",
+          "status": "1",
+          "note": "江苏卫视"
+        },
+        {
+          "tvid": "23",
+          "epgid": "bjws",
+          "status": "1",
+          "note": "北京卫视"
+        },
+        {
+          "tvid": "24",
+          "epgid": "dfws",
+          "status": "1",
+          "note": "东方卫视"
+        },
+        {
+          "tvid": "25",
+          "epgid": "ahws",
+          "status": "1",
+          "note": "安徽卫视"
+        },
+        {
+          "tvid": "26",
+          "epgid": "gdws",
+          "status": "1",
+          "note": "广东卫视"
+        },
+        {
+          "tvid": "27",
+          "epgid": "szws",
+          "status": "1",
+          "note": "深圳卫视"
+        },
+        {
+          "tvid": "28",
+          "epgid": "lnws",
+          "status": "1",
+          "note": "辽宁卫视"
+        },
+        {
+          "tvid": "29",
+          "epgid": "lyws",
+          "status": "1",
+          "note": "海南卫视"
+        },
+        {
+          "tvid": "30",
+          "epgid": "sdws",
+          "status": "1",
+          "note": "山东卫视"
+        },
+        {
+          "tvid": "31",
+          "epgid": "tjws",
+          "status": "1",
+          "note": "天津卫视"
+        },
+        {
+          "tvid": "32",
+          "epgid": "zqws",
+          "status": "1",
+          "note": "重庆卫视"
+        },
+        {
+          "tvid": "33",
+          "epgid": "dnws",
+          "status": "1",
+          "note": "东南卫视"
+        },
+        {
+          "tvid": "34",
+          "epgid": "gsws",
+          "status": "1",
+          "note": "甘肃卫视"
+        },
+        {
+          "tvid": "35",
+          "epgid": "gxws",
+          "status": "1",
+          "note": "广西卫视"
+        },
+        {
+          "tvid": "36",
+          "epgid": "gzws",
+          "status": "1",
+          "note": "贵州卫视"
+        },
+        {
+          "tvid": "37",
+          "epgid": "hbws",
+          "status": "1",
+          "note": "河北卫视"
+        },
+        {
+          "tvid": "38",
+          "epgid": "hljws",
+          "status": "1",
+          "note": "黑龙江卫视"
+        },
+        {
+          "tvid": "39",
+          "epgid": "hnws",
+          "status": "1",
+          "note": "河南卫视"
+        },
+        {
+          "tvid": "40",
+          "epgid": "hbws",
+          "status": "1",
+          "note": "湖北卫视"
+        },
+        {
+          "tvid": "41",
+          "epgid": "jxws",
+          "status": "1",
+          "note": "江西卫视"
+        },
+        {
+          "tvid": "42",
+          "epgid": "jlws",
+          "status": "1",
+          "note": "吉林卫视"
+        },
+        {
+          "tvid": "43",
+          "epgid": "nmgws",
+          "status": "1",
+          "note": "内蒙古卫视"
+        },
+        {
+          "tvid": "44",
+          "epgid": "nxws",
+          "status": "1",
+          "note": "宁夏卫视"
+        },
+        {
+          "tvid": "45",
+          "epgid": "sxws",
+          "status": "1",
+          "note": "山西卫视"
+        },
+        {
+          "tvid": "46",
+          "epgid": "sxws",
+          "status": "1",
+          "note": "陕西卫视"
+        },
+        {
+          "tvid": "47",
+          "epgid": "scws",
+          "status": "1",
+          "note": "四川卫视"
+        },
+        {
+          "tvid": "48",
+          "epgid": "xjws",
+          "status": "1",
+          "note": "新疆卫视"
+        },
+        {
+          "tvid": "49",
+          "epgid": "ynws",
+          "status": "1",
+          "note": "云南卫视"
+        },
+        {
+          "tvid": "50",
+          "epgid": "qhws",
+          "status": "1",
+          "note": "青海卫视"
+        },
+        {
+          "tvid": "51",
+          "epgid": "nfws",
+          "status": "1",
+          "note": "南方卫视"
+        },
+        {
+          "tvid": "52",
+          "epgid": "btws",
+          "status": "1",
+          "note": "兵团卫视"
+        },
+        {
+          "tvid": "53",
+          "epgid": "ybws",
+          "status": "1",
+          "note": "延边卫视"
+        },
+        {
+          "tvid": "54",
+          "epgid": "hhws",
+          "status": "1",
+          "note": "黄河卫视"
+        },
+        {
+          "tvid": "55",
+          "epgid": "smws",
+          "status": "1",
+          "note": "厦门卫视"
+        },
+        {
+          "tvid": "57",
+          "epgid": "kbws",
+          "status": "1",
+          "note": "康巴卫视"
+        },
+        {
+          "tvid": "58",
+          "epgid": "xcws",
+          "status": "1",
+          "note": "西藏卫视"
+        },
+        {
+          "tvid": "59",
+          "epgid": "ssws",
+          "status": "1",
+          "note": "三沙卫视"
+        },
+        {
+          "tvid": "314",
+          "epgid": "wsdyt",
+          "status": "1",
+          "note": "卫视电影台"
+        },
+        {
+          "tvid": "450",
+          "epgid": "wsdyt",
+          "status": "1",
+          "note": "卫视电影台（港）"
+        }
+      ]
+    },
+    {
+      "name": "地方频道",
+      "channels": [
+        {
+          "tvid": "150",
+          "epgid": "btvys",
+          "status": "1",
+          "note": "BTV影视"
+        },
+        {
+          "tvid": "184",
+          "epgid": "sctv5",
+          "status": "1",
+          "note": "四川影视文艺频道"
+        },
+        {
+          "tvid": "192",
+          "epgid": "cdtv4",
+          "status": "1",
+          "note": "成都影视文艺频道"
+        },
+        {
+          "tvid": "194",
+          "epgid": "cdtv6",
+          "status": "1",
+          "note": "成都少儿频道"
+        },
+        {
+          "tvid": "197",
+          "epgid": "sdty",
+          "status": "1",
+          "note": "山东体育"
+        },
+        {
+          "tvid": "200",
+          "epgid": "sdse",
+          "status": "1",
+          "note": "山东少儿"
+        },
+        {
+          "tvid": "201",
+          "epgid": "sdys",
+          "status": "1",
+          "note": "山东影视"
+        },
+        {
+          "tvid": "208",
+          "epgid": "lnds",
+          "status": "1",
+          "note": "辽宁都市"
+        },
+        {
+          "tvid": "209",
+          "epgid": "lnysj",
+          "status": "1",
+          "note": "辽宁影视剧"
+        },
+        {
+          "tvid": "210",
+          "epgid": "lnqs",
+          "status": "1",
+          "note": "辽宁青少"
+        },
+        {
+          "tvid": "211",
+          "epgid": "lnsh",
+          "status": "1",
+          "note": "辽宁生活"
+        },
+        {
+          "tvid": "212",
+          "epgid": "lngg",
+          "status": "1",
+          "note": "辽宁公共"
+        },
+        {
+          "tvid": "213",
+          "epgid": "lnbf",
+          "status": "1",
+          "note": "辽宁北方"
+        },
+        {
+          "tvid": "214",
+          "epgid": "lnty",
+          "status": "1",
+          "note": "辽宁体育"
+        },
+        {
+          "tvid": "215",
+          "epgid": "lnjj",
+          "status": "1",
+          "note": "辽宁经济"
+        },
+        {
+          "tvid": "218",
+          "epgid": "hbyspd",
+          "status": "1",
+          "note": "湖北影视频道"
+        },
+        {
+          "tvid": "225",
+          "epgid": "whdsjpd",
+          "status": "1",
+          "note": "武汉电视剧频道"
+        },
+        {
+          "tvid": "230",
+          "epgid": "whsepd",
+          "status": "1",
+          "note": "武汉少儿频道"
+        }
+      ]
+    },
+    {
+      "name": "IPTV频道",
+      "channels": [
+        {
+          "tvid": "66",
+          "epgid": "iptv5+",
+          "status": "1",
+          "note": "IPTV5⁺"
+        },
+        {
+          "tvid": "67",
+          "epgid": "iptv6+",
+          "status": "1",
+          "note": "IPTV6⁺"
+        },
+        {
+          "tvid": "68",
+          "epgid": "iptvjddy",
+          "status": "1",
+          "note": "IPTV经典电影"
+        },
+        {
+          "tvid": "69",
+          "epgid": "iptvrbjc",
+          "status": "1",
+          "note": "IPTV热播剧场"
+        },
+        {
+          "tvid": "70",
+          "epgid": "iptvsedh",
+          "status": "1",
+          "note": "IPTV少儿动画"
+        },
+        {
+          "tvid": "71",
+          "epgid": "iptvmlss",
+          "status": "1",
+          "note": "IPTV魅力时尚"
+        },
+        {
+          "tvid": "145",
+          "epgid": "iptv3+",
+          "status": "1",
+          "note": "IPTV3⁺"
+        }
+      ]
+    },
+    {
+      "name": "卡通动画",
+      "channels": [
+        {
+          "tvid": "56",
+          "epgid": "jykt",
+          "status": "1",
+          "note": "金鹰卡通"
+        },
+        {
+          "tvid": "113",
+          "epgid": "xkdm",
+          "status": "1",
+          "note": "中数新科动漫"
+        },
+        {
+          "tvid": "146",
+          "epgid": "kkdh",
+          "status": "1",
+          "note": "卡酷动画"
+        },
+        {
+          "tvid": "155",
+          "epgid": "hhxd",
+          "status": "1",
+          "note": "哈哈炫动"
+        },
+        {
+          "tvid": "233",
+          "epgid": "ymkt",
+          "status": "1",
+          "note": "优漫卡通"
+        },
+        {
+          "tvid": "237",
+          "epgid": "jjkt",
+          "status": "1",
+          "note": "嘉佳卡通"
+        }
+      ]
+    },
+    {
+      "name": "付费频道",
+      "channels": [
+        {
+          "tvid": "72",
+          "epgid": "doxyh",
+          "status": "1",
+          "note": "DOX映画"
+        },
+        {
+          "tvid": "73",
+          "epgid": "fyzq",
+          "status": "1",
+          "note": "中数风云足球"
+        },
+        {
+          "tvid": "74",
+          "epgid": "qskx",
+          "status": "1",
+          "note": "华数求索科学"
+        },
+        {
+          "tvid": "75",
+          "epgid": "chcgqdy",
+          "status": "1",
+          "note": "CHC高清电影"
+        },
+        {
+          "tvid": "76",
+          "epgid": "qsdw",
+          "status": "1",
+          "note": "华数求索动物"
+        },
+        {
+          "tvid": "77",
+          "epgid": "qssh",
+          "status": "1",
+          "note": "华数求索生活"
+        },
+        {
+          "tvid": "78",
+          "epgid": "qsjl",
+          "status": "1",
+          "note": "华数求索记录"
+        },
+        {
+          "tvid": "79",
+          "epgid": "chcdzdy",
+          "status": "1",
+          "note": "CHC动作电影"
+        },
+        {
+          "tvid": "80",
+          "epgid": "chcjtdy",
+          "status": "1",
+          "note": "CHC家庭电影"
+        },
+        {
+          "tvid": "81",
+          "epgid": "ly",
+          "status": "1",
+          "note": "中数梨园"
+        },
+        {
+          "tvid": "82",
+          "epgid": "fyyl",
+          "status": "1",
+          "note": "中数风云音乐"
+        },
+        {
+          "tvid": "83",
+          "epgid": "dyjc",
+          "status": "1",
+          "note": "中数第一剧场"
+        },
+        {
+          "tvid": "84",
+          "epgid": "fyjc",
+          "status": "1",
+          "note": "中数风云剧场"
+        },
+        {
+          "tvid": "85",
+          "epgid": "sjdl",
+          "status": "1",
+          "note": "中数世界地理"
+        },
+        {
+          "tvid": "86",
+          "epgid": "dszn",
+          "status": "1",
+          "note": "中数电视指南"
+        },
+        {
+          "tvid": "87",
+          "epgid": "hjjc",
+          "status": "1",
+          "note": "中数怀旧剧场"
+        },
+        {
+          "tvid": "88",
+          "epgid": "bqkj",
+          "status": "1",
+          "note": "中数兵器科技"
+        },
+        {
+          "tvid": "94",
+          "epgid": "ysjp",
+          "status": "1",
+          "note": "中数央视精品"
+        },
+        {
+          "tvid": "95",
+          "epgid": "cmzx",
+          "status": "1",
+          "note": "中数彩民在线"
+        },
+        {
+          "tvid": "106",
+          "epgid": "ystq",
+          "status": "1",
+          "note": "中数CCTV央视台球"
+        },
+        {
+          "tvid": "107",
+          "epgid": "cpd",
+          "status": "1",
+          "note": "中数茶频道"
+        },
+        {
+          "tvid": "108",
+          "epgid": "wssj",
+          "status": "1",
+          "note": "中数武术世界"
+        },
+        {
+          "tvid": "109",
+          "epgid": "fxzl",
+          "status": "1",
+          "note": "中数发现之旅"
+        },
+        {
+          "tvid": "110",
+          "epgid": "hqqg",
+          "status": "1",
+          "note": "中数环球奇观"
+        },
+        {
+          "tvid": "118",
+          "epgid": "zhms",
+          "status": "1",
+          "note": "中数中华美食"
+        },
+        {
+          "tvid": "119",
+          "epgid": "doxtv",
+          "status": "1",
+          "note": "华诚DOXTV"
+        },
+        {
+          "tvid": "120",
+          "epgid": "xfpy",
+          "status": "1",
+          "note": "华诚先锋乒羽"
+        },
+        {
+          "tvid": "121",
+          "epgid": "cmpd",
+          "status": "1",
+          "note": "北广车迷频道"
+        },
+        {
+          "tvid": "122",
+          "epgid": "kszx",
+          "status": "1",
+          "note": "北广考试在线"
+        },
+        {
+          "tvid": "123",
+          "epgid": "yybb",
+          "status": "1",
+          "note": "北广优优宝贝"
+        },
+        {
+          "tvid": "141",
+          "epgid": "yzyy",
+          "status": "1",
+          "note": "华数亚洲影院"
+        },
+        {
+          "tvid": "142",
+          "epgid": "jpjc",
+          "status": "1",
+          "note": "华数精品剧场"
+        },
+        {
+          "tvid": "143",
+          "epgid": "sedm",
+          "status": "1",
+          "note": "华数少儿动漫"
+        },
+        {
+          "tvid": "144",
+          "epgid": "omyy",
+          "status": "1",
+          "note": "华数欧美影院"
+        },
+        {
+          "tvid": "162",
+          "epgid": "doxyx",
+          "status": "1",
+          "note": "DOX院线"
+        },
+        {
+          "tvid": "163",
+          "epgid": "doxxz",
+          "status": "1",
+          "note": "DOX新知"
+        },
+        {
+          "tvid": "165",
+          "epgid": "doxjc",
+          "status": "1",
+          "note": "DOX剧场"
+        },
+        {
+          "tvid": "204",
+          "epgid": "hydy",
+          "status": "1",
+          "note": "环宇电影"
+        },
+        {
+          "tvid": "159",
+          "epgid": "jbty",
+          "status": "1",
+          "note": "劲爆体育"
+        },
+        {
+          "tvid": "65",
+          "epgid": "djtt",
+          "status": "1",
+          "note": "电竞天堂"
+        },
+        {
+          "tvid": "168",
+          "epgid": "hxjc",
+          "status": "1",
+          "note": "欢笑剧场"
+        },
+        {
+          "tvid": "175",
+          "epgid": "dfys",
+          "status": "1",
+          "note": "东方影视"
+        },
+        {
+          "tvid": "172",
+          "epgid": "yxfy",
+          "status": "1",
+          "note": "游戏风云"
+        },
+        {
+          "tvid": "236",
+          "epgid": "yyfdpd",
+          "status": "1",
+          "note": "英语辅导频道"
+        }
+      ]
+    }
+  ]
+}
