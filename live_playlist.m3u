@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="浙江卫视", group-title="地方卫视" ,浙江卫视
+#EXTINF:-1 tvg-name="浙1江卫视", group-title="地方卫视" ,浙江1卫视
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.15F79 (iPhone; U; CPU OS 11_4 like Mac OS X; zh_cn)
 http://199.168.97.90:88/applive/zjws.m3u8?u=155.117.84.39&t=1789870227&k=e51718cd127a5bfabcbf638aeff04a8a&a=jsbv1hz9
 
