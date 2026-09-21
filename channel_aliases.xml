@@ -1,10 +1,75 @@
 {
   "categories": [
+{
+      "name": "辽宁频道",
+      "channels": [
+        {
+          "tvid": "1",
+          "epgid": "lnws",
+          "status": "1",
+          "note": "辽宁卫视"
+        },
+{
+          "tvid": "208",
+          "epgid": "lnds",
+          "status": "1",
+          "note": "辽宁都市"
+        },
+        {
+          "tvid": "209",
+          "epgid": "lnysj",
+          "status": "1",
+          "note": "辽宁影视剧"
+        },
+        {
+          "tvid": "210",
+          "epgid": "lnqs",
+          "status": "1",
+          "note": "辽宁青少"
+        },
+        {
+          "tvid": "211",
+          "epgid": "lnsh",
+          "status": "1",
+          "note": "辽宁生活"
+        },
+        {
+          "tvid": "212",
+          "epgid": "lngg",
+          "status": "1",
+          "note": "辽宁公共"
+        },
+        {
+          "tvid": "213",
+          "epgid": "lnbf",
+          "status": "1",
+          "note": "辽宁北方"
+        },
+        {
+          "tvid": "214",
+          "epgid": "lnty",
+          "status": "1",
+          "note": "辽宁体育"
+        },
+        {
+          "tvid": "215",
+          "epgid": "lnjj",
+          "status": "1",
+          "note": "辽宁经济"
+        },
+        {
+          "tvid": "2",
+          "epgid": "cctv2",
+          "status": "1",
+          "note": "CCTV-2财经"
+        }
+      ]
+    },
     {
       "name": "中央频道",
       "channels": [
         {
-          "tvid": "1",
+          "tvid": "28",
           "epgid": "cctv1",
           "status": "1",
           "note": "CCTV-1综合"
@@ -194,12 +259,7 @@
           "status": "1",
           "note": "深圳卫视"
         },
-        {
-          "tvid": "28",
-          "epgid": "lnws",
-          "status": "1",
-          "note": "辽宁卫视"
-        },
+        
         {
           "tvid": "29",
           "epgid": "lyws",
@@ -438,54 +498,6 @@
           "epgid": "sdys",
           "status": "1",
           "note": "山东影视"
-        },
-        {
-          "tvid": "208",
-          "epgid": "lnds",
-          "status": "1",
-          "note": "辽宁都市"
-        },
-        {
-          "tvid": "209",
-          "epgid": "lnysj",
-          "status": "1",
-          "note": "辽宁影视剧"
-        },
-        {
-          "tvid": "210",
-          "epgid": "lnqs",
-          "status": "1",
-          "note": "辽宁青少"
-        },
-        {
-          "tvid": "211",
-          "epgid": "lnsh",
-          "status": "1",
-          "note": "辽宁生活"
-        },
-        {
-          "tvid": "212",
-          "epgid": "lngg",
-          "status": "1",
-          "note": "辽宁公共"
-        },
-        {
-          "tvid": "213",
-          "epgid": "lnbf",
-          "status": "1",
-          "note": "辽宁北方"
-        },
-        {
-          "tvid": "214",
-          "epgid": "lnty",
-          "status": "1",
-          "note": "辽宁体育"
-        },
-        {
-          "tvid": "215",
-          "epgid": "lnjj",
-          "status": "1",
-          "note": "辽宁经济"
         },
         {
           "tvid": "218",
